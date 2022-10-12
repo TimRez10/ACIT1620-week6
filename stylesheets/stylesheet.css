@@ -8,10 +8,10 @@ ul a:hover {
     color:pink
 }
 li:first-child::first-letter {
-    font-style: bold;
+    font-weight: bold;
     font-size: 120%;
 }
-li:last-child {
+a[title~="BCIT"] {
     background-color: yellow;
 }
 
