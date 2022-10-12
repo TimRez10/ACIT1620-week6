@@ -1,4 +1,11 @@
-ul a:link {
+img {
+    float: left;
+}
+p.below {
+    clear: left
+}
+
+/* ul a:link {
     color:green
 }
 ul a:visited {
@@ -13,7 +20,7 @@ li:first-child::first-letter {
 }
 a[title~="BCIT"] {
     background-color: yellow;
-}
+} */
 
 /* div h2 {
     font-style: italic;
