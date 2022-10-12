@@ -11,7 +11,9 @@ li:first-child::first-letter {
     font-style: bold;
     font-size: 120%;
 }
-
+li:last-child {
+    background-color: yellow;
+}
 
 /* div h2 {
     font-style: italic;
