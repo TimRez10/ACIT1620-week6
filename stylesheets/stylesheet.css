@@ -7,6 +7,11 @@ ul a:visited {
 ul a:hover {
     color:pink
 }
+li:first-child::first-letter {
+    font-style: bold;
+    font-size: 120%;
+}
+
 
 /* div h2 {
     font-style: italic;
